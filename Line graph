@@ -1,7 +1,0 @@
-python code to plot a line graph 
-
-import matplotlib.pyplot as plt
-x = [19,27,32,45,55]
-y = [16,35,27,49,38]
-plt.plot(x,y)
-plt.show()
